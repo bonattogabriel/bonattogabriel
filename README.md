@@ -1,5 +1,3 @@
-# Olá! 👋
-
 ## .NET Developer | C# | ASP.NET Core | SQL Server | Oracle
 
 Desenvolvedor de software com mais de 6 anos de experiência no desenvolvimento, integração e evolução de aplicações web.
