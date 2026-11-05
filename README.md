@@ -1,6 +1,6 @@
 # Olá! 👋
 
-## Senior .NET Developer | C# | ASP.NET Core | SQL Server | Oracle
+## .NET Developer | C# | ASP.NET Core | SQL Server | Oracle
 
 Desenvolvedor de software com mais de 6 anos de experiência no desenvolvimento, integração e evolução de aplicações web.
 Atuo principalmente com **C# / ASP.NET / ASP.NET Core**, **SQL Server** e **Oracle**, trabalhando em diferentes camadas da aplicação — do backend e APIs ao banco de dados, integrações com sistemas e equipamentos, automação de deploy e monitoramento.
@@ -51,7 +51,7 @@ Atuo principalmente com **C# / ASP.NET / ASP.NET Core**, **SQL Server** e **Orac
 
 ### 🚀 Experience
 
-Atualmente atuo como **Desenvolvedor ASP.NET Sênior**, trabalhando com integrações entre software e equipamentos de controle de acesso e segurança — reconhecimento facial, leitura de placas, controladoras e centrais de alarme. Também cuido de automações com GitHub Actions e Docker, monitoramento com Azure Application Insights e dou suporte técnico a empresas parceiras em integrações via API.
+Atualmente atuo como **Desenvolvedor ASP.NET Pleno/Sênior**, trabalhando com integrações entre software e equipamentos de controle de acesso e segurança — reconhecimento facial, leitura de placas, controladoras e centrais de alarme. Também cuido de automações com GitHub Actions e Docker, monitoramento com Azure Application Insights e dou suporte técnico a empresas parceiras em integrações via API.
 
 Ao longo da carreira, desenvolvi múltiplos projetos em ASP.NET e ASP.NET Core trabalhando diretamente com clientes, implementei APIs REST para integração entre sistemas, integrações com SAP e autenticação via AD.
 
