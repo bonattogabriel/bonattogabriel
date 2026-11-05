@@ -5,7 +5,7 @@ Atuo principalmente com **C# / ASP.NET / ASP.NET Core**, **SQL Server** e **Orac
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Linguagens & Frameworks**
 
@@ -14,6 +14,8 @@ Atuo principalmente com **C# / ASP.NET / ASP.NET Core**, **SQL Server** e **Orac
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=for-the-badge&logo=php&logoColor=white)
 
 **Banco de Dados & ORMs**
 
@@ -32,7 +34,7 @@ Atuo principalmente com **C# / ASP.NET / ASP.NET Core**, **SQL Server** e **Orac
 
 ---
 
-### 💻 What I Do
+### What I Do
 
 - Desenvolvimento de APIs REST com C# / ASP.NET Core
 - Desenvolvimento de aplicações web com ASP.NET, ASP.NET Core, Blazor e React
@@ -42,30 +44,30 @@ Atuo principalmente com **C# / ASP.NET / ASP.NET Core**, **SQL Server** e **Orac
 - Autenticação via Active Directory
 - Automação de CI/CD com GitHub Actions e containerização com Docker
 - Monitoramento de aplicações com Azure Application Insights
-- Migração e modernização de sistemas legados
-- Manutenção e evolução de sistemas em produção
+- Migração e modernização de sistemas legados (Mainframe e Delphi para ASP.NET)
+- Manutenção e evolução de sistemas em produção, incluindo sustentação de aplicações PHP com Yii2
 
 ---
 
-### 🚀 Experience
+### Experience
 
-Atualmente atuo como **Desenvolvedor ASP.NET Pleno/Sênior**, trabalhando com integrações entre software e equipamentos de controle de acesso e segurança — reconhecimento facial, leitura de placas, controladoras e centrais de alarme. Também cuido de automações com GitHub Actions e Docker, monitoramento com Azure Application Insights e dou suporte técnico a empresas parceiras em integrações via API.
+Atualmente atuo como **Desenvolvedor ASP.NET Sênior**, trabalhando com integrações entre software e equipamentos de controle de acesso e segurança — reconhecimento facial, leitura de placas, controladoras e centrais de alarme. Também cuido de automações com GitHub Actions e Docker, monitoramento com Azure Application Insights e dou suporte técnico a empresas parceiras em integrações via API.
 
-Ao longo da carreira, desenvolvi múltiplos projetos em ASP.NET e ASP.NET Core trabalhando diretamente com clientes, implementei APIs REST para integração entre sistemas, integrações com SAP e autenticação via AD.
+Ao longo da carreira, desenvolvi múltiplos projetos em ASP.NET e ASP.NET Core trabalhando diretamente com clientes, implementei APIs REST para integração entre sistemas, integrações com SAP e autenticação via AD. Atuei também na **migração de software mainframe para ASP.NET** e no desenvolvimento e sustentação de sistemas em PHP com o framework Yii2.
 
-Também participei da **migração de uma aplicação legada em Delphi para ASP.NET** e, posteriormente, para **ASP.NET Core**, em um sistema de gestão para empresas de SST com integrações financeiras, geração de boletos e pagamentos — contribuindo nas decisões de arquitetura e atualização tecnológica.
+Antes disso, participei da **migração de uma aplicação legada em Delphi para ASP.NET** e, posteriormente, para **ASP.NET Core**, em um sistema de gestão para empresas de SST com integrações financeiras, geração de boletos e pagamentos — contribuindo nas decisões de arquitetura e atualização tecnológica.
 
 Comecei na área de **suporte técnico**, o que me deu uma boa visão do lado do usuário e de como transformar demandas de clientes em soluções.
 
 ---
 
-### 🎓 Education
+### Education
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Tecnológica Federal do Paraná (UTFPR)
 
 ---
 
-### 📚 Currently Exploring
+### Currently Exploring
 
 - Arquitetura de software
 - Cloud & DevOps
