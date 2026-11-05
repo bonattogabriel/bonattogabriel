@@ -51,7 +51,7 @@ Atuo principalmente com **C# / ASP.NET / ASP.NET Core**, **SQL Server** e **Orac
 
 ### Experience
 
-Atualmente atuo como **Desenvolvedor ASP.NET Sênior**, trabalhando com integrações entre software e equipamentos de controle de acesso e segurança — reconhecimento facial, leitura de placas, controladoras e centrais de alarme. Também cuido de automações com GitHub Actions e Docker, monitoramento com Azure Application Insights e dou suporte técnico a empresas parceiras em integrações via API.
+Atualmente atuo como **Desenvolvedor ASP.NET Pleno**, trabalhando com integrações entre software e equipamentos de controle de acesso e segurança — reconhecimento facial, leitura de placas, controladoras e centrais de alarme. Também cuido de automações com GitHub Actions e Docker, monitoramento com Azure Application Insights e dou suporte técnico a empresas parceiras em integrações via API.
 
 Ao longo da carreira, desenvolvi múltiplos projetos em ASP.NET e ASP.NET Core trabalhando diretamente com clientes, implementei APIs REST para integração entre sistemas, integrações com SAP e autenticação via AD. Atuei também na **migração de software mainframe para ASP.NET** e no desenvolvimento e sustentação de sistemas em PHP com o framework Yii2.
 
